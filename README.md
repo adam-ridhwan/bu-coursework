@@ -1,7 +1,14 @@
 # Coursework for my MS in Software Development at Boston University
 This repository holds my assignments throughout my degree at BU. 
 
-*This is for storage purposes only please do not use my code to cheat on your assignments but rather as a reference to help with your classes! :)*
+*This is for storage purposes only please do not use my code to cheat on your assignments,
+but rather as a reference to help with your classes! :)*
+
+# CS300: Intro to Software Development
+
+https://www.bu.edu/academics/met/courses/met-cs-300/
+
+This course introduces basic concepts in discrete mathematics, computer systems and programming that are necessary for modern computing systems. It also develops analytic and logical thinking and prepares students to take graduate-level courses in software development degree. This course first reviews the basic concepts in discrete mathematics including logic, sets, functions, relations and combinatorics. Then it discusses the fundamental concepts in computer systems such as computer organization, basic OS concepts, CPU scheduling, memory management, process management and synchronization. Concurrently with the above mathematics and systems studies, programming concepts are introduced and practiced throughout the whole course using Python. 
 
 # CS622: Advanced Programming Techniques
 
