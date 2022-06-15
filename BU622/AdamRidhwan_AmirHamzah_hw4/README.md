@@ -5,7 +5,7 @@ Homework 4 is about concurrency
 ## Description
 
 ***Homework 4 compares the runtime of single vs multithread of creating genome sequence***
-
+<br/>
 
 ## 1. Single Thread Function - SingleThreadGenome
 
