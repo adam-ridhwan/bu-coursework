@@ -1,13 +1,13 @@
 class Hangman:
     def __init__(self, word):
-        self.__word = word					# chosen random word
-        self.asterisk = "*" * len(word)	    # hides the word
-        self.answer = list(self.asterisk)  # updated word shown
-        self.correctDuplicate = "" 			# stores duplicates of correct letter
-        self.wrongDuplicate = ""			# stores duplicates of wrong letter
-        self.correct = []					# stores the correct letter
-        self.wrong = []						# stores the wrong letter
-        self.counter = 0					# number of tries
+        self.__word = word # chosen random word
+        self.asterisk = "*" * len(word) # hides the word
+        self.answer = list(self.asterisk) # updated word shown
+        self.correctDuplicate = "" # stores duplicates of correct letter
+        self.wrongDuplicate = "" # stores duplicates of wrong letter
+        self.correct = [] # stores the correct letter
+        self.wrong = [] # stores the wrong letter
+        self.counter = 0 # number of tries
 
     # private class
 
