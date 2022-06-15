@@ -1,4 +1,4 @@
-# Coursework for my MS in Software Development (MSSD) at Boston University
+# Coursework for my MS in Software Development at Boston University
 This repository holds my assignments throughout my degree at BU. 
 
 *This is for storage purposes only please do not use my code to cheat on your assignments but rather as a reference to aid for your classes! :)*
