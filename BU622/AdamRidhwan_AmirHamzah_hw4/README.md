@@ -7,7 +7,7 @@ Homework 4 is about concurrency
 ***Homework 4 compares the runtime of single vs multithread of creating genome sequence***
 
 
-### 1. Single Thread Function - SingleThreadGenome
+## 1. Single Thread Function - SingleThreadGenome
 
 The single thread function class creates 100 random genome sequences linearly
 
