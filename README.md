@@ -15,3 +15,6 @@ Polymorphism, containers, libraries, method specifications, large-scale code man
 https://www.bu.edu/academics/met/courses/met-cs-701/
 
 The Rich Internet Application (RIA) Development course concentrates primarily on building rich client web applications in the browser for desktop and mobile devices. The course is divided into various modules covering in depth the following technologies: HTML5, AngularJS, and Ionic framework. Along with the fundamentals underlying these technologies, several applications will be showcased as case studies. Students work with these technologies starting with simple applications and then examining real world complex applications. At the end of this course, students would have mastered the latest and widely used RIA methodologies.
+
+
+![alt text]([http://url/to/img.png](https://logos-world.net/wp-content/uploads/2022/01/Boston-University-Logo-700x394.png))
