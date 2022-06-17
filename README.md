@@ -1,8 +1,14 @@
-# Coursework for my MS in Software Development at Boston University
+<div> 
+  <img width="300px" src="https://github.com/adam-ridhwan/programming-logos/blob/main/BU-logo.svg">
+  <h1> Coursework for my MS in Software Development at Boston University </h1>
+</div>
+
 This repository holds my assignments throughout my degree at BU. 
 
 *This is for storage purposes only please do not use my code to cheat on your assignments,
 but rather as a reference to help with your classes! :)*
+
+
 
 # CS300: Intro to Software Development
 https://www.bu.edu/academics/met/courses/met-cs-300/
